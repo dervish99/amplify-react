@@ -10,7 +10,7 @@ function App() {
           Edit <code>src/App.js</code> and save to reload.
         </p>
         <p>
-          Testing my github integration2
+          Testing my github integration2. now i've added some code IN GITHUB
         </p>        
         <a
           className="App-link"
