@@ -11,7 +11,10 @@ function App() {
         </p>
         <p>
           Testing my github integration2. now i've added some code IN GITHUB
-        </p>        
+        </p> 
+          <p>
+         Wrote some changes in Cloud on 13th Sending them back to git!
+        </p>       
         <a
           className="App-link"
           href="https://reactjs.org"
